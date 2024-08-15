@@ -84,3 +84,4 @@ print(f"\nВсі шляхи від {start_station} до {goal_station} за до
 for i, path in enumerate(bfs_all_results, 1):
     print(f"Шлях {i}: {path}")
 
+
